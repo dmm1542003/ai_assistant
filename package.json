@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dmm1542003/ai_assistant/issues"
   },
-  "homepage": "https://github.com/dmm1542003/ai_assistant#readme"
+  "homepage": "https://github.com/dmm1542003/ai_assistant#readme",
+  "dependencies": {
+    "chromadb": "^3.0.15"
+  }
 }
